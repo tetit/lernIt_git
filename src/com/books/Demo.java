@@ -34,7 +34,7 @@ public class Demo {
 				bookService.filterBooksAfterSpecifiedYear(1992, books)));
 		
 		System.out.println("I like GIT");
-		System.out.println("Test SSH connection");
+		System.out.println("Test  SSH  connection");
 
 	}
 
