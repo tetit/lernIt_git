@@ -33,7 +33,6 @@ public class Demo {
 		System.out.println(Arrays.toString(
 				bookService.filterBooksAfterSpecifiedYear(1992, books)));
 		
-		System.out.println("I like GIT");
 		System.out.println("Test  SSH  connection");
 
 	}
